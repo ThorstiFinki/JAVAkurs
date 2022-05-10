@@ -6,13 +6,11 @@ public class Application {
      */
     public static void main(String[] args) {
 
-
         //  loops(); //Spielereien mit for-Schleife
         //  Consoleinputs(); //Einlesen verschiedener Datentypen über Konsole
         //  datentypen(); //beispiele für verschiedene Datentypen und deren Ausgabe
         //  variable();  //Variablendeklarationen
         //  literate(); //Beispiele für Literate
-
     }
     public static void loops() {
         boolean exit = true;
@@ -34,7 +32,6 @@ public class Application {
         System.out.printf("Das Produkt mit Namen %s lautet: %.2f%n", ergebnis, number * zahl);
 
     }
-
     public static void datentypen() {
         System.out.printf("Im Folgenden sind verschiedene %s dargestellt. Aktuell sind es %d.", "Funktionen", 4);
         System.out.printf("%n");
@@ -59,7 +56,6 @@ public class Application {
         System.out.println(1 + 1 + " 2 " + (66 + 77)); //Unterbinden lässt sich das mit Klammern.
 
     }
-
     public static void variable() {
         //int -> 4Byte
         int age1 = 100;
@@ -68,7 +64,6 @@ public class Application {
         //Konstante
         final double PI = 3.1415;
     }
-
     public static void literate() {
 
         System.out.println("Hallo Welt!");
