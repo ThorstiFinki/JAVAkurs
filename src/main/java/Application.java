@@ -5,6 +5,7 @@ public class Application {
      * @param args Übergabe an die JVM.
      */
     public static void main(String[] args) {
+//Dies ist eine Teständerung.
 
         //  loops(); //Spielereien mit for-Schleife
         //  Consoleinputs(); //Einlesen verschiedener Datentypen über Konsole
