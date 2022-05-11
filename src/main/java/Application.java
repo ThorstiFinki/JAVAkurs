@@ -1,3 +1,5 @@
+//import java.awt.*;
+//import java.util.Scanner;
 public class Application {
     /**
      * Hauptprogramm.
@@ -6,6 +8,7 @@ public class Application {
      */
     public static void main(String[] args) {
 //Dies ist eine Teständerung.
+
 
         //  loops(); //Spielereien mit for-Schleife
         //  Consoleinputs(); //Einlesen verschiedener Datentypen über Konsole
